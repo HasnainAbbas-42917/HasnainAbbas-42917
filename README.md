@@ -5,9 +5,7 @@ Software Engineering Intern @ Full Stack Zone (Pvt) Ltd
 Python · FastAPI · Flask · REST APIs · Flutter/Dart · AI/ML · PostgreSQL · MySQL
 
 Linkedin Profile : https://www.linkedin.com/in/hasnain-abbas-22586b241/?isSelfProfile=true
-
-Github Profile : https://github.com/HasnainAbbas-42917 
-
+ 
 Contact Us : hassnain6786@gmail.com 
 
 Rawalpindi / Islamabad, Pakistan | Open to: On-site · Hybrid · Remote
@@ -67,7 +65,7 @@ Data Mgmt
 
 PROJECTS
 
-1. HomeHarvest AI — Plant Disease Detection Mobile App
+1. [HomeHarvest AI — Plant Disease Detection Mobile App](https://github.com/HasnainAbbas-42917/HomeHarvest-AI)
    
    Final Year Project (FYP)
 
@@ -92,9 +90,8 @@ PROJECTS
    
    • Firebase authentication for secure user management
    
-     Repository: github.com/HasnainAbbas-42917/HomeHarvest-AI
 
-2. Hospital Appointment & Management Portal
+2. [Hospital Appointment & Management Portal](https://github.com/HasnainAbbas-42917/Hospital-Management-Portal)
 
    Role-Based Web Application
 
