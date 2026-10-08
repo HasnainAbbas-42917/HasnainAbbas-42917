@@ -30,34 +30,35 @@ Open to full-time opportunities in Software Engineering, AI/ML, or Backend Devel
 
 TECH STACK
 
-Backend Development
+Backend Development:
 
 Python | FastAPI | Flask | REST APIs | Node.js | Express.js
 
-Mobile Development
+Mobile Development:
 
 Flutter | Dart | Cross-Platform Development
 
-AI / Machine Learning
+AI / Machine Learning:
 
 TensorFlow | CNN | Machine Learning 
 
-Databases
+Databases:
 
 PostgreSQL | MySQL | Database Design | Normalization | CRUD
 
-Frontend
+Frontend:
 
 HTML5 | CSS3 | JavaScript | Bootstrap 5 | Responsive Web Design
 
-Tools & DevOps
+Tools & DevOps:
 
-Git | GitHub 
-Other Languages
+Git | GitHub
+
+Other Languages:
 
 Java | C++
 
-Data & Research
+Data & Research:
 
 Lead Generation | Web Research | Data Scraping | Contact Discovery | E-commerce
 Data Mgmt
@@ -68,63 +69,73 @@ PROJECTS
 
 1. HomeHarvest AI — Plant Disease Detection Mobile App
    
-Final Year Project (FYP)
+   Final Year Project (FYP)
 
-Tech Stack: 
+   Tech Stack: 
 
-Flutter | Python | Flask | TensorFlow | CNN | MySQL | REST API | Firebase
+   Flutter | Python | Flask | TensorFlow | CNN | MySQL | REST API | Firebase
 
-An end-to-end AI-powered mobile application that detects diseases in plants from leaf images and provides
-treatment recommendations.
-• Engineered a CNN model with TensorFlow for real-time plant disease image classification across multiple
-plant species
-• Built a Python Flask REST API backend handling image uploads, model inference, and JSON response
-delivery to the mobile app
-• Developed the complete Flutter/Dart mobile frontend — image capture, API integration, results display, and
-user management
-• Integrated MySQL for storing plant data, disease records, and user scan history
-• Implemented a chatbot assistant, e-commerce module, payment gateway, notifications, and admin panel
-• Firebase authentication for secure user management
-Repository: github.com/HasnainAbbas-42917/HomeHarvest-AI
+   An end-to-end AI-powered mobile application that detects diseases in plants from leaf images and provides
+   treatment recommendations.
+   • Engineered a CNN model with TensorFlow for real-time plant disease image classification across multiple
+     plant species
+   
+   • Built a Python Flask REST API backend handling image uploads, model inference, and JSON response
+     delivery to the mobile app
+   
+   • Developed the complete Flutter/Dart mobile frontend — image capture, API integration, results display, and
+     user management
+   
+   • Integrated MySQL for storing plant data, disease records, and user scan history
+   
+   • Implemented a chatbot assistant, e-commerce module, payment gateway, notifications, and admin panel
+   
+   • Firebase authentication for secure user management
+   
+     Repository: github.com/HasnainAbbas-42917/HomeHarvest-AI
 
-3. Hospital Appointment & Management Portal
+2. Hospital Appointment & Management Portal
 
-Role-Based Web Application
+   Role-Based Web Application
 
-Tech Stack: 
+   Tech Stack: 
 
-Python | FastAPI | PostgreSQL | HTML5 | CSS3 | JavaScript | Bootstrap 5
+   Python | FastAPI | PostgreSQL | HTML5 | CSS3 | JavaScript | Bootstrap 5
 
-A full-featured, role-based hospital management portal supporting four user types with a modern web interface.
-• Supports 4 user roles — Admin, Doctor, Receptionist, and Patient — each with dedicated dashboards and
-permissions
-• Built with Python FastAPI backend with PostgreSQL database for high-performance API handling
-• Server-rendered HTML/CSS/JavaScript frontend with custom visual design and Bootstrap 5
-• Core features: appointment booking, doctor scheduling, patient records, receptionist workflow, and admin
-control panel
-• All core functionality fully implemented and browser-tested
+   A full-featured, role-based hospital management portal supporting four user types with a modern web interface.
+   • Supports 4 user roles — Admin, Doctor, Receptionist, and Patient — each with dedicated dashboards and
+     permissions
+   
+   • Built with Python FastAPI backend with PostgreSQL database for high-performance API handling
+   
+   • Server-rendered HTML/CSS/JavaScript frontend with custom visual design and Bootstrap 5
+   
+   • Core features: appointment booking, doctor scheduling, patient records, receptionist workflow, and admin
+     control panel
+   
+   • All core functionality fully implemented and browser-tested
 
 ----------
 
 PROFESSIONAL EXPERIENCE
 
-Software Engineering Intern
+1. Software Engineering Intern
 
-Full Stack Zone (Pvt) Ltd, Rawalpindi
+   Full Stack Zone (Pvt) Ltd, Rawalpindi
 
-2025 – Present
+   2025 – Present
 
-Research & Data Entry Specialist
+2. Research & Data Entry Specialist
 
-Marketing SIP Company, Lahore
+   Marketing SIP Company, Lahore
 
-Nov 2023 – Aug 2024
+   Nov 2023 – Aug 2024
 
-Accountant & Cashier
+3. Accountant & Cashier
 
-Lahori Restaurant, Lahore
+   Lahori Restaurant, Lahore
 
-May 2025 – Apr 2026
+   May 2025 – Apr 2026
 
 ----------
 
@@ -146,29 +157,30 @@ Govt. Degree College Shujabad
 
 CERTIFICATIONS
 
-Coursera:
+1. Coursera:
 
-• Introduction to Software Engineering
+   • Introduction to Software Engineering
 
-• Object-Oriented Programming in Java | Object-Oriented Data Structures in C++
+   • Object-Oriented Programming in Java | Object-Oriented Data Structures in C++
 
-• Introduction to Front-End Development
+   • Introduction to Front-End Development
 
-• Responsive Website Basics: Code with HTML, CSS, and JavaScript
+   • Responsive Website Basics: Code with HTML, CSS, and JavaScript
 
-• Linux: Processes & System Resource Management for DevOps
+   • Linux: Processes & System Resource Management for DevOps
 
-Cisco Networking Academy (NetAcad):
+2. Cisco Networking Academy (NetAcad):
 
-• Introduction to TCP/IP
+   • Introduction to TCP/IP
 
-• Data Forwarding Across Computer Networks
+   • Data Forwarding Across Computer Networks
 
-• Operating Systems – Basics
+   • Operating Systems – Basics
 
 ----------
 
-RESEARCH & DATA SKILLS
+RESEARCH & DATA SKILLS:
+
 Lead Generation | Web Research | Data Scraping | Contact Discovery | E-commerce Data Management | CRM
 Data Entry | Amazon · eBay · Walmart · Etsy · Alibaba
 
