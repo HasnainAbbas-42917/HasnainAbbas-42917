@@ -1,6 +1,7 @@
 HASNAIN ABBAS
 
 Software Engineering Intern @ Full Stack Zone (Pvt) Ltd
+
 Python · FastAPI · Flask · REST APIs · Flutter/Dart · AI/ML · PostgreSQL · MySQL
 
 Linkedin Profile : https://www.linkedin.com/in/hasnain-abbas-22586b241/?isSelfProfile=true
@@ -30,20 +31,34 @@ Open to full-time opportunities in Software Engineering, AI/ML, or Backend Devel
 TECH STACK
 
 Backend Development
+
 Python | FastAPI | Flask | REST APIs | Node.js | Express.js
+
 Mobile Development
+
 Flutter | Dart | Cross-Platform Development
+
 AI / Machine Learning
+
 TensorFlow | CNN | Machine Learning 
+
 Databases
+
 PostgreSQL | MySQL | Database Design | Normalization | CRUD
+
 Frontend
+
 HTML5 | CSS3 | JavaScript | Bootstrap 5 | Responsive Web Design
+
 Tools & DevOps
+
 Git | GitHub 
 Other Languages
+
 Java | C++
+
 Data & Research
+
 Lead Generation | Web Research | Data Scraping | Contact Discovery | E-commerce
 Data Mgmt
 
@@ -52,8 +67,13 @@ Data Mgmt
 PROJECTS
 
 1. HomeHarvest AI — Plant Disease Detection Mobile App
+   
 Final Year Project (FYP)
-Tech Stack: Flutter | Python | Flask | TensorFlow | CNN | MySQL | REST API | Firebase
+
+Tech Stack: 
+
+Flutter | Python | Flask | TensorFlow | CNN | MySQL | REST API | Firebase
+
 An end-to-end AI-powered mobile application that detects diseases in plants from leaf images and provides
 treatment recommendations.
 • Engineered a CNN model with TensorFlow for real-time plant disease image classification across multiple
@@ -67,9 +87,14 @@ user management
 • Firebase authentication for secure user management
 Repository: github.com/HasnainAbbas-42917/HomeHarvest-AI
 
-2. Hospital Appointment & Management Portal
+3. Hospital Appointment & Management Portal
+
 Role-Based Web Application
-Tech Stack: Python | FastAPI | PostgreSQL | HTML5 | CSS3 | JavaScript | Bootstrap 5
+
+Tech Stack: 
+
+Python | FastAPI | PostgreSQL | HTML5 | CSS3 | JavaScript | Bootstrap 5
+
 A full-featured, role-based hospital management portal supporting four user types with a modern web interface.
 • Supports 4 user roles — Admin, Doctor, Receptionist, and Patient — each with dedicated dashboards and
 permissions
@@ -82,43 +107,63 @@ control panel
 ----------
 
 PROFESSIONAL EXPERIENCE
+
 Software Engineering Intern
+
 Full Stack Zone (Pvt) Ltd, Rawalpindi
+
 2025 – Present
 
 Research & Data Entry Specialist
+
 Marketing SIP Company, Lahore
+
 Nov 2023 – Aug 2024
 
 Accountant & Cashier
+
 Lahori Restaurant, Lahore
+
 May 2025 – Apr 2026
-
-
-EDUCATION
 
 ----------
 
+EDUCATION
+
 BS Computer Science
+
 Riphah International University Islamabad, Campus Lahore
+
 2022 – 2026
+
 ICS (Intermediate)
+
 Govt. Degree College Shujabad
+
 2020 – 2022
 
 ----------
 
 CERTIFICATIONS
-Coursera
+
+Coursera:
+
 • Introduction to Software Engineering
+
 • Object-Oriented Programming in Java | Object-Oriented Data Structures in C++
+
 • Introduction to Front-End Development
+
 • Responsive Website Basics: Code with HTML, CSS, and JavaScript
+
 • Linux: Processes & System Resource Management for DevOps
 
-Cisco Networking Academy (NetAcad)
+Cisco Networking Academy (NetAcad):
+
 • Introduction to TCP/IP
+
 • Data Forwarding Across Computer Networks
+
 • Operating Systems – Basics
 
 ----------
@@ -127,5 +172,9 @@ RESEARCH & DATA SKILLS
 Lead Generation | Web Research | Data Scraping | Contact Discovery | E-commerce Data Management | CRM
 Data Entry | Amazon · eBay · Walmart · Etsy · Alibaba
 
-Open to full-time opportunities in Software Engineering · AI/ML · Backend Development
+
+Open to full-time opportunities in :
+
+Software Engineering · AI/ML · Backend Development
+
 Rawalpindi / Islamabad · Lahore, Pakistan | On-site · Hybrid · Remote
