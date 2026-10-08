@@ -2,14 +2,19 @@ HASNAIN ABBAS
 
 Software Engineering Intern @ Full Stack Zone (Pvt) Ltd
 Python · FastAPI · Flask · REST APIs · Flutter/Dart · AI/ML · PostgreSQL · MySQL
+
 Linkedin Profile : https://www.linkedin.com/in/hasnain-abbas-22586b241/?isSelfProfile=true
+
 Github Profile : https://github.com/HasnainAbbas-42917 
+
 Contact Us : hassnain6786@gmail.com 
+
 Rawalpindi / Islamabad, Pakistan | Open to: On-site · Hybrid · Remote
 
 ----------
 
 ABOUT ME
+
 Computer Science graduate from Riphah International University, Lahore — currently working as a Software
 Engineering Intern at Full Stack Zone (Pvt) Ltd, Rawalpindi, gaining real-world experience in Python backend
 development, AI/ML, REST APIs, and Flutter mobile development through a structured, mentor-led program.
@@ -29,16 +34,15 @@ Python | FastAPI | Flask | REST APIs | Node.js | Express.js
 Mobile Development
 Flutter | Dart | Cross-Platform Development
 AI / Machine Learning
-TensorFlow | CNN | Machine Learning | Deep Learning | Image Classification |
-Computer Vision
+TensorFlow | CNN | Machine Learning 
 Databases
 PostgreSQL | MySQL | Database Design | Normalization | CRUD
 Frontend
 HTML5 | CSS3 | JavaScript | Bootstrap 5 | Responsive Web Design
 Tools & DevOps
-Git | GitHub | Linux | TCP/IP
+Git | GitHub 
 Other Languages
-Java | C++ | PHP
+Java | C++
 Data & Research
 Lead Generation | Web Research | Data Scraping | Contact Discovery | E-commerce
 Data Mgmt
@@ -89,6 +93,7 @@ Nov 2023 – Aug 2024
 Accountant & Cashier
 Lahori Restaurant, Lahore
 May 2025 – Apr 2026
+
 
 EDUCATION
 
