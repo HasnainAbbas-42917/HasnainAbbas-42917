@@ -2,7 +2,9 @@ HASNAIN ABBAS
 
 Software Engineering Intern @ Full Stack Zone (Pvt) Ltd
 
-Python · FastAPI · Flask · REST APIs · Flutter/Dart · AI/ML · PostgreSQL · MySQL
+Python · FastAPI · Flask · REST APIs · Flutter/Dart · Frontend Developer · AI/ML · PostgreSQL · MySQL 
+
+My Portfolio Website: https://hasnainabbas-42917.github.io/hasnain-portfolio/
 
 Linkedin Profile : https://www.linkedin.com/in/hasnain-abbas-22586b241/?isSelfProfile=true
  
