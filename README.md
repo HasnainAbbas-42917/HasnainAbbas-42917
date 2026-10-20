@@ -10,7 +10,7 @@ Linkedin Profile : https://www.linkedin.com/in/hasnain-abbas-22586b241/?isSelfPr
  
 Contact Us : hassnain6786@gmail.com 
 
-Rawalpindi / Islamabad, Pakistan | Open to: On-site · Hybrid · Remote
+Rawalpindi / Islamabad, Lahore Pakistan | Open to: On-site · Hybrid · Remote
 
 ----------
 
